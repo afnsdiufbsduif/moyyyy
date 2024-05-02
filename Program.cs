@@ -10,3 +10,19 @@
         }
         return arr;
     }
+
+    static string[] FilterShortStrings(string[] arr)
+    {
+        string[] newArr = new string[arr.Length];
+        int index = 0;
+        foreach (string str in arr)
+        {
+            if (str.Length <= 3)
+            {
+                newArr[index] = str;
+                index++;
+            }
+        }
+        Array.Resize(ref newArr, index); // Обрезаем лишние элементы массива
+        return newArr;
+    }
