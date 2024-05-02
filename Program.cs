@@ -26,3 +26,19 @@
         Array.Resize(ref newArr, index); // Обрезаем лишние элементы массива
         return newArr;
     }
+
+static void Main(string[] args)
+    {
+        // Ввод массива строк
+        string[] arr = InputArray();
+
+        // Фильтрация коротких строк
+        string[] newArr = FilterShortStrings(arr);
+
+        // Вывод результата
+        Console.WriteLine("Новый массив:");
+        foreach (string str in newArr)
+        {
+            Console.WriteLine(str);
+        }
+    }
