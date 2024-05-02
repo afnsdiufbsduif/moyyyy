@@ -1,4 +1,8 @@
-﻿static string[] InputArray()
+﻿using System;
+
+class Program
+{
+    static string[] InputArray()
     {
         Console.Write("Введите размер массива строк: ");
         int size = int.Parse(Console.ReadLine());
@@ -27,7 +31,7 @@
         return newArr;
     }
 
-static void Main(string[] args)
+    static void Main(string[] args)
     {
         // Ввод массива строк
         string[] arr = InputArray();
@@ -42,3 +46,4 @@ static void Main(string[] args)
             Console.WriteLine(str);
         }
     }
+}

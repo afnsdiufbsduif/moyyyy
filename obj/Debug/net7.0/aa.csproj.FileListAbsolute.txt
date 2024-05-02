@@ -1,0 +1,14 @@
+C:\Users\user\Documents\aa\bin\Debug\net7.0\aa.exe
+C:\Users\user\Documents\aa\bin\Debug\net7.0\aa.deps.json
+C:\Users\user\Documents\aa\bin\Debug\net7.0\aa.runtimeconfig.json
+C:\Users\user\Documents\aa\bin\Debug\net7.0\aa.dll
+C:\Users\user\Documents\aa\bin\Debug\net7.0\aa.pdb
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.AssemblyInfo.cs
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.dll
+C:\Users\user\Documents\aa\obj\Debug\net7.0\refint\aa.dll
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.pdb
+C:\Users\user\Documents\aa\obj\Debug\net7.0\aa.genruntimeconfig.cache
+C:\Users\user\Documents\aa\obj\Debug\net7.0\ref\aa.dll
